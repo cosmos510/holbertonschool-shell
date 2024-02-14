@@ -1,2 +1,2 @@
 #!/bin/bash
-if echo $USER = 'user' echo 'hello user' whoami
+echo "hello MyUser"
